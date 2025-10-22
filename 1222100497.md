@@ -575,7 +575,7 @@ docker load -i imagen.tar
 
 Este documento fue creado como parte de la actividad de comandos Docker para la materia de Gestión del Proceso de Desarrollo de Software.
 
-**Última actualización:** Octubre 2024
+**Última actualización:** Octubre 2025
 
 ---
 
